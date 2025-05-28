@@ -1,65 +1,82 @@
-Hi 👋 My name is Rahul Rawat
-============================
+<!-- Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Rahul+Rawat!;Full+Stack+Engineer+%7C+Tech+Craftsman;Solving+real-world+problems+with+code" alt="Typing SVG" />
+</h1>
 
-Software Developer
-------------------
+<p align="center">
+  <a href="https://hackrest.com/me"><img src="https://img.shields.io/badge/🌐 Portfolio-hackrest.com-informational" /></a>
+  <a href="mailto:rahul.rawat.fec@gmail.com"><img src="https://img.shields.io/badge/📬 Email-rahul.rawat.fec%40gmail.com-blue" /></a>
+  <a href="https://linkedin.com/in/rahul-rawat-598ba918a"><img src="https://img.shields.io/badge/💼 LinkedIn-Rahul%20Rawat-blueviolet" /></a>
+  <a href="https://leetcode.com/rahul_9211/"><img src="https://img.shields.io/badge/🧠 LeetCode-rahul_9211-orange" /></a>
+</p>
 
-Fast-learning and adaptable learner with proven history of reliability with implemented projects . I have interest in creating projects with unique ideas.
+---
 
-*   🌍  I'm based in India
-*   🖥️  See my portfolio at [https://hackrest.com/](http://hackrest.com/)
-*   ✉️  You can contact me at [rahul.rawat.fec@gmail.com](mailto:rahul.rawat.fec@gmail.com)
-*   🧠  I'm learning NextJS
-*   🤝  I'm open to collaborating on Full Stack Projects
-*   ⚡  I am insane overthinker , but depends when I wanna be ..........
-<a href="https://www.github.com/Rahul-9211" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Rahul-9211?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
+### 👨‍💻 About Me
 
-### Skills
-<p align="left">
-                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-                                <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-                                <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-                                <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-                                <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-                                <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-                                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-                                <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-                                <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-                                <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-                    </p>
-                    
+- 🔭 Currently building at **Amenify** — Tech that powers smarter buildings 🏢
+- 💡 Experience across domains: eCommerce, real estate, cybersecurity, and SaaS
+- ⚙️ Strong in **Next.js**, **Node.js** , **React.js** , **React Native**, **Django**, **Nest.js**, and cloud infra
+- 🧩 Curious tinkerer — always learning something new in DevOps or system design
+- 🛠 Actively working on: personal product stack, open-source tooling, performance tuning
+- 🤝 Collaborations welcome — reach out!
 
-### Socials
-                  
-<p align="left"> <a href="https://www.github.com/Rahul-9211" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rahul-rawat-598ba918a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+---
 
-### Badges
+### 🧰 Tech Toolbox
 
-<b>My GitHub Stats</b>
+| Area | Tools |
+|------|-------|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
 
-<a href="http://www.github.com/Rahul-9211"><img src="https://github-readme-stats.vercel.app/api?username=Rahul-9211&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="Rahul-9211's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/Rahul-9211"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-9211&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🚀 Projects Snapshot
 
-<a href="http://www.github.com/Rahul-9211"><img src="https://activity-graph.herokuapp.com/graph?username=Rahul-9211&bg_color=181824&color=ffffff&line=0891b2&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+| 🧩 Project | 🔍 Summary | 💻 Tech |
+|-----------|-----------|---------|
+| **[Amenify App](https://apps.apple.com/us/app/amenify-resident/id1474989684)** | Resident app with eCommerce & service dashboard | React Native, Django, Stripe |
+| **[Brands Dashboard](https://brands.lal10.com/signin)** | Vendor-facing TNA tracking dashboard | Next.js, MySQL, Tailwind |
+| **[Design Central](https://www.catalogue.lal10.com/)** | Catalog curation tool for internal ops | Strapi, Tailwind, React |
+| **AuditSense** | Audit optimization SaaS app | MERN Stack |
+| **GuardLogix** | Cybersecurity alert automation | MERN + Alerting System |
 
-<a href="https://github.com/Rahul-9211" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-9211&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+### 📊 Stats & Contributions
 
-<div width="100%" align="center"><a href="https://github.com/Rahul-9211/chatBot-Nodejs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-9211&repo=chatBot-Nodejs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/Rahul-9211/resume" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-9211&repo=resume&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-9211&show_icons=true&theme=react&count_private=true&hide_rank=false" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahul-9211&theme=react" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-9211&theme=react&layout=compact&langs_count=8" />
+</p>
 
-<br /><br /><br /><br /><br />
+---
 
-<div width="100%" align="center"><a href="https://github.com/Rahul-9211/ECART_REACT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-9211&repo=ECART_REACT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div>
+### 🎯 Current Focus
 
-### Support Me
-<a href="https://www.buymeacoffee.com/rahul_rawat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+- 🔍 Building a product around **automated operations dashboards**
+- ☁️ Experimenting with **Supabase, Edge Functions**, and **AI Agents**
+- 🛒 Exploring **white-labeled eCommerce** with Etsy APIs
+
+---
+
+### ☕ Let’s Connect & Collaborate
+
+<p align="center">
+  <a href="https://linkedin.com/in/rahul-rawat-598ba918a"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+  <a href="mailto:rahul.rawat.fec@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
+  <a href="https://github.com/Rahul-9211"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/rahul_rawat">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="Buy Me A Coffee"/>
+  </a>
+</p>
