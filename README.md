@@ -154,6 +154,29 @@ I enjoy solving problems involving **automation, scale, integrations, data-heavy
 * 🛠️ Building useful developer/productivity tools
 * 🌐 Exploring the intersection of **AI + real-world product workflows**
 
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rahul-9211&show_icons=true&theme=react&count_private=true&include_all_commits=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Rahul-9211&theme=react"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-9211&theme=react&layout=compact&langs_count=8"
+  />
+</p>
+
+
 ---
 
 ### ☕ Let's Connect & Collaborate
