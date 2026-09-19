@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://rahul-portfolio-rawat.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-hackrest.com-informational" /></a>
+  <a href="https://rahul-portfolio-rawat.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-Rahul-Rawat" /></a>
   <a href="mailto:rahul.rawat.fec@gmail.com"><img src="https://img.shields.io/badge/📬 Email-rahul.rawat.fec%40gmail.com-blue" /></a>
   <a href="https://linkedin.com/in/rahul-rawat-598ba918"><img src="https://img.shields.io/badge/💼 LinkedIn-Rahul%20Rawat-blueviolet" /></a>
   <a href="https://leetcode.com/rahul_9211/"><img src="https://img.shields.io/badge/🧠 LeetCode-rahul_9211-orange" /></a>
