@@ -1,11 +1,11 @@
-````markdown
+
 <!-- Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=850&lines=Hey+👋+I'm+Rahul+Rawat!;Senior+Software+Engineer+%7C+Full+Stack;Building+Scalable+Products+with+AI+%26+Code" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://hackrest.com/me"><img src="https://img.shields.io/badge/🌐 Portfolio-hackrest.com-informational" /></a>
+  <!-- <a href="https://hackrest.com/me"><img src="https://img.shields.io/badge/🌐 Portfolio-hackrest.com-informational" /></a> -->
   <a href="mailto:rahul.rawat.fec@gmail.com"><img src="https://img.shields.io/badge/📬 Email-rahul.rawat.fec%40gmail.com-blue" /></a>
   <a href="https://linkedin.com/in/rahul-rawat-598ba918"><img src="https://img.shields.io/badge/💼 LinkedIn-Rahul%20Rawat-blueviolet" /></a>
   <a href="https://leetcode.com/rahul_9211/"><img src="https://img.shields.io/badge/🧠 LeetCode-rahul_9211-orange" /></a>
@@ -175,6 +175,4 @@ I enjoy solving problems involving **automation, scale, integrations, data-heavy
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="Buy Me A Coffee"/>
   </a>
 </p>
-```
 
-This version makes your GitHub profile consistent with the **current resume positioning**: backend-heavy full-stack engineer, but with enough visibility into AI, security, payments, cloud, and product engineering to show your breadth.
